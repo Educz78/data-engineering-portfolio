@@ -42,10 +42,9 @@ ORDER BY
 Aqui descrevo os passos que segui para configurar meu ambiente de desenvolvimento local e na nuvem.
 * **WSL 2 e Ubuntu:** Ativado o Windows Subsystem for Linux e instalada a distribuição Ubuntu 22.04.
 * **Docker Desktop:** Instalado e configurado para usar o backend do WSL 2, com 4 CPUs e 8GB de memória alocados.
-* **Google Cloud (GCP):** Conta criada com sucesso, com um projeto (`[COLOQUE O ID DO SEU PROJETO AQUI]`) e um alerta de orçamento configurado para segurança.
+* **Google Cloud (GCP):** Conta criada com sucesso, com um projeto (`[graceful-tenure-469816-p4]`) e um alerta de orçamento configurado para segurança.
 * **BigQuery:** A API foi ativada e um dataset chamado `meu_primeiro_pipeline` foi criado na localização `southamerica-east1`.
 * **Autenticação:** O `gcloud` CLI foi instalado e configurado para autenticação local via `gcloud auth application-default login`.
 
 ---
-*(Aqui adicionaremos os próximos projetos no futuro)*
-Commit changes
+
