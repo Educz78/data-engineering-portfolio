@@ -47,4 +47,10 @@ Aqui descrevo os passos que segui para configurar meu ambiente de desenvolviment
 * **Autenticação:** O `gcloud` CLI foi instalado e configurado para autenticação local via `gcloud auth application-default login`.
 
 ---
+[✅] Estrutura de Projeto Profissional: Separou configurações, lógica e fluxo principal.
 
+[✅] Código Limpo e Reutilizável: Dividiu o pipeline em funções claras e testáveis.
+
+[✅] Portabilidade com Docker: Criou um contêiner auto-suficiente que pode rodar em qualquer lugar.
+
+[✅] Resolução de Problemas Avançados: Depurou problemas de autenticação e configuração específicos do Docker.
